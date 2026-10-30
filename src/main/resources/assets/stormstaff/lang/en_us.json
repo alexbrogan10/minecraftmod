@@ -1,0 +1,5 @@
+{
+  "item.stormstaff.storm_staff": "Storm Staff",
+  "item.stormstaff.storm_staff.tooltip": "Right-click to call down lightning",
+  "item.stormstaff.storm_staff.tooltip.range": "Range: %s blocks"
+}

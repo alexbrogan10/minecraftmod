@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "stormstaff",
+  "version": "${version}",
+  "name": "Storm Staff",
+  "description": "Adds the Storm Staff: a staff that calls lightning down wherever you aim it.",
+  "authors": ["alexbrogan10"],
+  "license": "MIT",
+  "icon": "assets/stormstaff/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.stormstaff.StormStaffMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
